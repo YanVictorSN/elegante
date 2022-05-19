@@ -9,8 +9,8 @@ body {
     height: 100vh;
     background-image: url(robot.png);
     background-repeat: no-repeat;
-    background-size: contain;
-    background-position:31vw ;
+    background-position:center bottom;
+    background-size: 31vw;
 }
 /* Cabeçalho */
 .navbar {
@@ -18,7 +18,7 @@ body {
     justify-content: space-around;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 2vw;
-    padding: 3vw 2vw ;
+    padding:2vw ;
     
 }
 .itensnav {
